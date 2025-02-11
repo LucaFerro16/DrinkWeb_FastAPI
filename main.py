@@ -79,7 +79,7 @@ def load_csv(file_path):
         return None
 
 # 🔹 Creazione della finestra principale
-root = tk.Tk()
+#root = tk.Tk()
 # Nasconde la finestra principale finché non si inserisce la password
 
 # 🔹 Caricare l'immagine di sfondo
